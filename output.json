@@ -6,8 +6,8 @@
          "top_species":"cat",
          "popular_by_age":{  
             "10":"cat",
-            "28":"cat",
-            "16":"dog"
+            "16":"dog",
+            "28":"cat"
          }
       }
    },
@@ -18,8 +18,8 @@
          "top_species":"cat",
          "popular_by_age":{  
             "10":"cat",
-            "28":"cat",
-            "16":"dog"
+            "16":"dog",
+            "28":"cat"
          }
       }
    }
