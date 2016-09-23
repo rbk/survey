@@ -17,7 +17,7 @@ We appreciate well factored, object-oriented or functional designs.
 
 Please document your code using [JSDoc](http://usejsdoc.org/) 
 
-## Setup Process
+## Steps
 - Fork this repo
 - Commit your code
 - Create a pull request with your solution 
