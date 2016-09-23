@@ -1,0 +1,26 @@
+[  
+   {  
+      "female":{  
+         "count":3,
+         "average_age":18,
+         "top_species":"cat",
+         "popular_by_age":{  
+            "10":"cat",
+            "28":"cat",
+            "16":"dog"
+         }
+      }
+   },
+   {  
+      "male":{  
+         "count":3,
+         "average_age":18,
+         "top_species":"cat",
+         "popular_by_age":{  
+            "10":"cat",
+            "28":"cat",
+            "16":"dog"
+         }
+      }
+   }
+]
