@@ -5,13 +5,16 @@
 		"top_species": "cat",
 		"popular_by_age": {
 			"10": {
-				"cat": 2
+				"cat": 2,
+				"dog": 1
 			},
 			"16": {
-				"cat": 2
+				"cat": 12,
+				"dog": 1
 			},
 			"28": {
-				"dog": 1
+				"dog": 9,
+				"cat": 2
 			}
 		}
 	}
