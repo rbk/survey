@@ -1,26 +1,35 @@
-[  
-   {  
-      "female":{  
-         "count":3,
-         "average_age":18,
-         "top_species":"cat",
-         "popular_by_age":{  
-            "10":"cat",
-            "16":"dog",
-            "28":"cat"
-         }
-      }
-   },
-   {  
-      "male":{  
-         "count":3,
-         "average_age":18,
-         "top_species":"cat",
-         "popular_by_age":{  
-            "10":"cat",
-            "16":"dog",
-            "28":"cat"
-         }
-      }
-   }
-]
+[{
+	"female": {
+		"count": 3,
+		"average_age": 18,
+		"top_species": "cat",
+		"popular_by_age": {
+			"10": {
+				"cat": 2
+			},
+			"16": {
+				"cat": 2
+			},
+			"28": {
+				"dog": 1
+			}
+		}
+	}
+}, {
+	"male": {
+		"count": 3,
+		"average_age": 18,
+		"top_species": "cat",
+		"popular_by_age": {
+			"10": {
+				"cat": 2
+			},
+			"16": {
+				"cat": 2
+			},
+			"28": {
+				"dog": 1
+			}
+		}
+	}
+}]
