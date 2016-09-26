@@ -7,14 +7,14 @@ We will be looking at the quality and professionalism of your work. In particula
 ## The Problem
 A survey was giving to around 500 people to find the favorite animal between cats and dogs from a diverse group of poeple. The data was also collect by mutilple people so it's inconsisitant. The information collected in [data.txt](data.txt) contains the age, gender, and favorite anaimal of each entry.
 
-This data needs to be parsed, inserted into a MySql database *(Show your work)*, then to the expected output (See [output.txt](output.txt)) 
+## The Solution
+This data needs to be parsed to the expected output (See [output.json](output.json)) 
 
 ## The Rules
 This should be implemented in a language with which you are familiar. We would prefer that you use javascript or php, if
 you are comfortable doing so. If none of these are comfortable, please choose a language that is both comfortable for you and suited to the task.
 
 We appreciate well factored, object-oriented or functional designs.
-
 Please document your code using [JSDoc](http://usejsdoc.org/) 
 
 ## Steps
