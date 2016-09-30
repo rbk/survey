@@ -1,4 +1,7 @@
 [{
+	"count": 168,
+	"top_species": "cat",
+	"average_age": 18,
 	"female": {
 		"count": 84,
 		"average_age": 18,
