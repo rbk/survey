@@ -1,0 +1,15 @@
+{
+    "name": "rbk/survey",
+    "description": "Data parsing test",
+    "authors": [
+        {
+            "name": "Richard Keller",
+            "email": "richard@richardkeller.net"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+}
